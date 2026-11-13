@@ -2,6 +2,8 @@
 
 A ten-question smoking and vaping awareness quiz that fits in one HTML file, built as the interactive half of **#BurnBetter**, a campus anti-smoking campaign.
 
+<img src="campaign/quiz.jpg" alt="Myth or Fact title screen" width="300">
+
 **Play it:** https://devhmez.github.io/myth-or-fact/
 
 ## What it is
